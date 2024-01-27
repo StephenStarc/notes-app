@@ -1,6 +1,6 @@
 Notes App with browser API- can save notes in browser storage
 
-Made with React, Version Control- Git
+Made with HTML, CSS and React, Version Control- Git
 
 <div align='center'>
 <img src="3.png">
